@@ -27,4 +27,7 @@ This project demonstrates the deployment of an enterprise Active Directory envir
 
 ## Status
 
-🟡 Planning Phase
+Status
+
+🟢 Core Active Directory Lab Completed
+🟡 Wazuh SIEM Integration In Progress
